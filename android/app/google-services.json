@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415376180664",
+    "project_id": "the-first-app-firebase",
+    "storage_bucket": "the-first-app-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415376180664:android:c3f6c22f4198a23a6f7b4d",
+        "android_client_info": {
+          "package_name": "com.example.abdallah_mansour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415376180664-fkkbtkq6bj58f5jj31fr1j7qdnt6ltjo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAa43CmEvzNj6-qXnkqbFQwK48vxMEODB0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415376180664-fkkbtkq6bj58f5jj31fr1j7qdnt6ltjo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
